@@ -1,3 +1,3 @@
 # Demo
 
-addition of two numbers using pointer
+addition of two numbers using pointer.
